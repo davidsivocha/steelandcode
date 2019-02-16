@@ -1,7 +1,7 @@
 
 # Steel and Code Website
 
-Built on [Wintersmith][1].
+Built on [Wintersmith][1]
 
 ## Build instructions
 
