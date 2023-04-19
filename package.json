@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "moment": "^2.11.2",
+        "moment": "^2.29.4",
         "typogr": "^0.5.2",
         "underscore": "^1.4.4"
     },
